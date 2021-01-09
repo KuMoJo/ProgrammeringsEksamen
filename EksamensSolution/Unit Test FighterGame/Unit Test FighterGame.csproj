@@ -56,7 +56,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Downloads\PTE06\PTE06Kode\FighterTheGame\4.5 FighterTheGame.csproj">
+    <ProjectReference Include="..\FighterTheGame\4.5 FighterTheGame.csproj">
       <Project>{a04af280-98c3-4f33-b3e1-f3f813abaa82}</Project>
       <Name>4.5 FighterTheGame</Name>
     </ProjectReference>

@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Downloads\AStarMonoGameTest\AStarMonoGameTest\!!!8.1 Astar.csproj">
+    <ProjectReference Include="..\AStarMonoGameTest\!!!8.1 Astar.csproj">
       <Project>{0b4ec0f2-e7dc-41e5-9bde-7253b35116a5}</Project>
       <Name>!!!8.1 Astar</Name>
     </ProjectReference>
